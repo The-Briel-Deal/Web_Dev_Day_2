@@ -1,0 +1,17 @@
+
+        hr {
+            border-style: none;
+            border-top-style: dotted;
+            border-color: #4ea8de;
+            border-width: 5px;
+            width: 10%;
+        }
+        table{
+            padding: 1px;
+            border: 4mm ridge rgba(170, 50, 220, .6);
+        }
+
+        body {
+            background-color: #80ffdb;
+            color: #7400b8;
+        }
